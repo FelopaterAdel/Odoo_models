@@ -39,7 +39,6 @@ tsconfig.json
 package-lock.json
 package.json
 .husky
-
 # various virtualenv
 /bin/
 /build/
